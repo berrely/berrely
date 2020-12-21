@@ -10,10 +10,6 @@
     <span style="font-size:1.3em;">You've just found a rare Berrely in it's natural habitat.</span>
   </p><hr>
 <div align="center">Discord: Berrely#7225 • Email: email(at)kaveh.pw</div><br />
-<div align="center" style="font-size:2em">Hi there, I'm Kaveh.</div>
-<div align="center" style="font-size:2em;">I know nothing about code and live in London, England.</span>
-
-
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=berrely&theme=merko" alt="stats"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrely&theme=merko" alt="langs"/></a>
