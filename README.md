@@ -9,10 +9,10 @@
   <p align="center">
     <span style="font-size:1.3em;">You've just found a rare Berrely in it's natural habitat.</span>
   </p><hr>
-<div style="align:center">Discord: Berrely#7225 • Email: email(at)kaveh.pw</div><br />
-<div style="font-size:3em;align:center"> Hi there, I'm Kaveh.</div>
-<div style="font-size:1.6em;align:center">I know nothing about code and live in London, England.</span>
-</p>
+<div align="center">Discord: Berrely#7225 • Email: email(at)kaveh.pw</div><br />
+<div align="center"> Hi there, I'm Kaveh.</div>
+<div align="center">I know nothing about code and live in London, England.</span>
+
 
 
 <p align="center">
