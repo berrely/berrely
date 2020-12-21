@@ -1,4 +1,33 @@
-### Hi there 👋
+<!-- PROJECT SHIELDS -->
+<!--
+made by https://github.com/othneildrew/Best-README-Template
+-->
+<p align="center"><a href="mailto:email@kaveh.pw">Email Me</a> • <a href="https://kaveh.pw">My Shitty Website</a> • <a href="https://en.wikipedia.org/wiki/User:Berrely">Wikipedia Userpage</a></p>
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/berrely">
+    <img src="https://lh3.googleusercontent.com/ogw/ADGmqu9CPd_xGY_XKE1UWOBFfEpHqc5eUWjyHEsOw1Uec2s=s83-c-mo" alt="Image" width="80" height="80">
+  </a>
+
+  <h3 align="center">Berrely</h3>
+
+  <p align="center">
+    <span style="font-size:1.3em;">You've just found a rare Berrely in it's natural habitat.</span>
+    <br />
+    <hr><div style="text-align:center">Discord: Berrely#7225 • Email: email(at)kaveh.pw</div>
+<div style="font-size:3em;text-align:center"> Hi there, I'm Kaveh.</div>
+<div style="font-size:1.6em;text-align:center">I know nothing about code and live in London, England.</span>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=berrely&theme=merko" alt="stats"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrely&theme=merko" alt="langs"/></a>
+</p>
+<!--<a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>-->
 
 <!--
 **berrely/berrely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
